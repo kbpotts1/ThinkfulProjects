@@ -1,4 +1,7 @@
-**Temporal Fluctuation in Fruit Resource Availability in a Tropical Forest:**
+***Below are brief summaries of recent projects I've been working on:***
+
+
+**Temporal Fluctuation in Fruit Resource Availability in a Tropical Forest**
 
 An understanding of the nature of temporal variability in fruit production by tropical forest trees, as well as the factors influencing productivity, can inform predictions about potential impacts of climate change on the animal populations that rely on these trees as food sources. I investigated these issues in this project using data from a site of long-term research on both plant phenology and primate ecology in Kibale National Park, Uganda. In particular, I addressed three main questions, primarily using standard linear regression techniques, as well as more specialized generalized additive models: 1) what is the relationship among weather variables at this research site? 2) Which variables most closely influence fruit production in this tropical forest? 3) What is the temporal pattern of fruit shortfalls (periods of prolonged, unusually low fruit availability) and high-production events (periods of prolonged, unusually high fruit availability). 
 
