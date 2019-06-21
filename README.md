@@ -1,4 +1,4 @@
-###***Below are brief summaries of recent projects I've been working on:***
+# ***Below are brief summaries of recent projects I've been working on:***
 
 
 **Temporal Fluctuation in Fruit Resource Availability in a Tropical Forest**
