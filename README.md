@@ -11,7 +11,9 @@
 
 - Used basic exploratory analyses, linear regression models, and generalized additive models
 
-- Primary findings: 1) Fruit production has increased over the 20 years of the study, 2) seasonality in fruiting is relatively weak, 3) productivity is most closely (and positively) associated with average temperature, 4) periods of fruit shortfall have become more common over the course of the study  
+- Primary findings: 1) Fruit production has increased over the 20 years of the study, 2) seasonality in fruiting was relatively weak over the course of the study, 3) productivity increased with decreasing average temperature, 4) periods of fruit shortfall have become more common over the course of the study  
+
+- Weak seasonality and a steady increase in fruit production suggest that Kibale is a high-quality habitat for animals relying on food resources. However, average temperatures are projected to substantially increase in this region in the coming decades, and the findings of this project suggest this increase will result in reduced fruit production and, perhaps, more prolonged periods of fruit scarcity. 
 
 
 **Predicting interactions between Down Syndrome and learning ability using gene expression values** 
@@ -20,15 +22,13 @@
 
 -  Primary questions: 1) Which of the >500 genes on chromosome 21 are most directly linked to DS-related learning difficulties? 2) How does DS impact learning at the genetic level? However, we lack a sufficient understanding of which of the >500 genes on chromosome 21 are most directly linked to the learning difficulties found in DS, nor do we have a strong understanding of how DS impacts learning at the genetic level. 
 
-- Addressing these questions can importantly impact efforts to develop pharmacological treatments for DS-related learning deficits.
-
 - I addressed these issues using a [dataset](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression) consisting of 1050 measurements of gene activity levels in 77 genes found in the brain in lab mice. I
 
 - Used ridge classifiers, random forests, K-nearest neighbors, and classifier chain models to predict the gene-level effects of exposing mice with Down Syndrome to a learning environment, both in the presence and absence of treatment with a drug (memantine) known to rescue learning abilities in patients with related conditions (e.g., Alzheimer’s). 
 
 - Primary finding: A ridge classifier had the highest predictive accuracy score of all models, and, surprisingly, chain classifier models performed very poorly.
 
-
+- The findings of this project suggest that models can be used to identify the signatures of Down Syndrome and its related effects at the gene level, perhaps providing a pathway for the eventual production of drug treatments for DS-linked learning deficits.
 
 **Using neural networks to predict genetic markers of Down Syndrome-associated learning deficits**
 
