@@ -22,7 +22,7 @@
 
 -  Primary questions: 1) Which of the >500 genes on chromosome 21 are most directly linked to DS-related learning difficulties? 2) How does DS impact learning at the genetic level? 
 
-- I addressed these issues using a [dataset](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression) consisting of 1050 measurements of gene activity levels in 77 genes found in the brain in lab mice. I
+- I addressed these issues using a [dataset](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression) consisting of 1050 measurements of gene activity levels in 77 genes found in the brain in lab mice. 
 
 - Used ridge classifiers, random forests, K-nearest neighbors, and classifier chain models to predict the gene-level effects of exposing mice with Down Syndrome to a learning environment, both in the presence and absence of treatment with a drug (memantine) known to rescue learning abilities in patients with related conditions (e.g., Alzheimer’s). 
 
