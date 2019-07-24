@@ -18,9 +18,9 @@
 
 **Predicting interactions between Down Syndrome and learning ability using gene expression values** 
 
-- Down Syndrome (DS) is caused by inheritance of an extra copy of chromosome 21 (“trisomy 21”) and is associated with a host of behavioral and cognitive deficits, including a reduced ability to learn and retain new information. It is thought that these deficits are linked to the overexpression of the genes found on chromosome 21.
+- Down Syndrome (DS) is caused by inheritance of an extra copy of chromosome 21 (“trisomy 21”) and is associated with a host of behavioral and cognitive deficits, including a reduced ability to learn and retain new information. It is thought that these deficits are linked to the overexpression of the genes found on chromosome 21. However, we lack a sufficient understanding of which of the >500 genes on chromosome 21 are most directly linked to the learning difficulties found in DS, nor do we have a strong understanding of how DS impacts learning at the genetic level. 
 
--  Primary questions: 1) Which of the >500 genes on chromosome 21 are most directly linked to DS-related learning difficulties? 2) How does DS impact learning at the genetic level? However, we lack a sufficient understanding of which of the >500 genes on chromosome 21 are most directly linked to the learning difficulties found in DS, nor do we have a strong understanding of how DS impacts learning at the genetic level. 
+-  Primary questions: 1) Which of the >500 genes on chromosome 21 are most directly linked to DS-related learning difficulties? 2) How does DS impact learning at the genetic level? 
 
 - I addressed these issues using a [dataset](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression) consisting of 1050 measurements of gene activity levels in 77 genes found in the brain in lab mice. I
 
